@@ -14,12 +14,12 @@ I love to teach and help people to learn programming and JavaScript. You can che
 ### Some of my videos
 ------------
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=3urklDAfK-k&t
-" target="_blank"><img src="http://img.youtube.com/vi/3urklDAfK-k&t/0.jpg"
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=PYaVYsKSDF8
 " target="_blank"><img src="http://img.youtube.com/vi/PYaVYsKSDF8/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=kq07UxTSx3I
+" target="_blank"><img src="http://img.youtube.com/vi/kq07UxTSx3I/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Csf-alRyyx0
