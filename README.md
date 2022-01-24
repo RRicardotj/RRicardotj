@@ -9,7 +9,7 @@ I'm Ricardo from Spain and I do Web development 👨‍💻. I consider myself a
 
 I also enjoy making web services with nodejs.
 
-I love to teach and help people to learn programming and JavaScript. You can checkout out my [YouTube channel 🎞](https://www.youtube.com/channel/UCRV9aKTbMTVNTsYRt-jg6gQ) and [Instagram account 🤳](https://www.instagram.com/rricardo.coder/)
+I love to teach and help people to learn programming and JavaScript. You can checkout my [YouTube channel 🎞](https://www.youtube.com/channel/UCRV9aKTbMTVNTsYRt-jg6gQ) and [Instagram account 🤳](https://www.instagram.com/rricardo.coder/)
 
 ### Some of my videos
 ------------
